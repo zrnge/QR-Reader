@@ -4,6 +4,6 @@ A lightweight Python script to decode QR codes from image files using only OpenC
 
 ## Installation
 ```bash
-git clone https://github.com/zrnge/qr-reader.git
+git clone https://github.com/zrnge/QR-Reader/qr-reader.git
 cd qr-reader
 pip3 install -r requirements.txt
