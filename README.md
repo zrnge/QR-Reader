@@ -2,7 +2,7 @@
 
 A lightweight Python script to decode QR codes from image files using only OpenCV.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![click to enlarge the image.](https://github.com/zrnge/QR-Reader/blob/main/screen1.png)
 
 ## Installation
 ```
